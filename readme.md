@@ -1,4 +1,4 @@
-# 🔍 Training and Evaluating a Keypoint Detection Model using ResNet50 🔍
+# 🔍 Tennis court - Training and Evaluating a Keypoint Detection Model using ResNet50 🔍
 
 ## 📊 Data
 The data for this project is sourced from this [repository](https://github.com/yastrebksv/TennisCourtDetector).
